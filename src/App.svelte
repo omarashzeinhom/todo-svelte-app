@@ -40,3 +40,6 @@
   {/each}
 </section>
 
+<footer>
+  @ANDGOEDU OmarZeinhom & Svelte DOCS
+</footer>
