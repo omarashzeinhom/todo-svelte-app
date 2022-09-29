@@ -5,7 +5,11 @@
   var pageTitle = "To Do App";
   var newItem = "";
 
-  var todoList = [];
+  var todoList = [
+    { text: "Build A Svelte ToDoApp From Docs", status: true },
+    { text: "Upload the Video To Youtube", status: false },
+    { text: "Check Content Replies", status: false },
+  ];
 
   function addToList() {
     todoList = [...todoList, { text: newItem, status: false }];
