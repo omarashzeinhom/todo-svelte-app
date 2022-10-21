@@ -13,10 +13,6 @@ yarn run dev
 ```
 
 
-```js
-
-```
-
 #### References
 1. [svelte - docs ](https://svelte.dev/docs)
 2. [svelete introduction](https://kit.svelte.dev/docs/introduction)
